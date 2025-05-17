@@ -1,0 +1,139 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d7d3fb8852dcb716d9ed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "BusinessLogic",
+					"jsonFile" : "directory-BusinessLogic-Debug-bbef7887749b6be0b6d1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "BusinessLogic",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Manager_projektow",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "BusinessLogic",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "BusinessLogic::@3a0f67e5ad5bbc4e50d6",
+					"jsonFile" : "target-BusinessLogic-Debug-7928e7e0179e6bdf4fbc.json",
+					"name" : "BusinessLogic",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "BusinessLogic_autogen::@3a0f67e5ad5bbc4e50d6",
+					"jsonFile" : "target-BusinessLogic_autogen-Debug-78fa8faa260b278ba240.json",
+					"name" : "BusinessLogic_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "BusinessLogic_autogen_timestamp_deps::@3a0f67e5ad5bbc4e50d6",
+					"jsonFile" : "target-BusinessLogic_autogen_timestamp_deps-Debug-573da56a07f7102e4430.json",
+					"name" : "BusinessLogic_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Manager_projektow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Manager_projektow-Debug-5905843bc2b38c465452.json",
+					"name" : "Manager_projektow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Manager_projektow_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Manager_projektow_autogen-Debug-899fb4e363eda6fd2027.json",
+					"name" : "Manager_projektow_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Manager_projektow_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Manager_projektow_autogen_timestamp_deps-Debug-7a2d535d5e5a37a5fdc5.json",
+					"name" : "Manager_projektow_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/opali/Desktop/projekt_JiPP/Manager_projektow/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/opali/Desktop/projekt_JiPP/Manager_projektow"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
